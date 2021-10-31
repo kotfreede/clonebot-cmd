@@ -2,8 +2,8 @@
 class Presets(object):
     WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>I can clone medias from one chat to another ! Try</code> /help \n" \
                    "<code>for how to use the bot.</code>\n\n<b>My Author is: " \
-                   "</b><a href='https://t.me/space4renjith'>                 HERE</a>\n" \
-                   "<b>My code can be seen: </b><a href='https://github.com/m4mallu/clonebot'> HERE</a>"
+                   "</b><a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>                 HERE</a>\n" \
+                   "<b>My code can be seen: </b><a href='https://t.me/KOT_BOTS'> HERE</a>"
     HELP_TEXT = """𝙃𝙚𝙡𝙡𝙤.. {}\n\n
 ▞▞▞ 🆆🅷🅾 🅰🅼 🅸 ▞▞▞
 
@@ -54,7 +54,7 @@ class Presets(object):
 🟡 𝐀𝐟𝐭𝐞𝐫 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐩𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞, 𝐚𝐥𝐥 
 𝐭𝐡𝐞 𝐜𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐫𝐞𝐬𝐞𝐭 𝐭𝐨 𝐝𝐞𝐟𝐚𝐮𝐥𝐭𝐬 𝐭𝐨 𝐚𝐯𝐨𝐢𝐝 𝐦𝐞𝐝𝐢𝐚 𝐝𝐮𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧.
     
-My repo can be see (⦿‿⦿) <a href='https://github.com/m4mallu/clonebot'>𝙃𝙚𝙧𝙚</a>
+My repo can be see (⦿‿⦿) <a href='https://t.me/KOT_BOTS'>𝙃𝙚𝙧𝙚</a>
     """
     MESSAGE_COUNT = "𝗬𝗼𝘂'𝘃𝗲 𝗰𝗼𝗽𝗶𝗲𝗱 : \n\n📚 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 <b>  : {}</b>\n🎞 𝐕𝐢𝐝𝐞𝐨𝐬         <b>  : {}</b>\n" \
                     "🔊 𝐀𝐮𝐝𝐢𝐨𝐬         <b>  : {}</b>\n\n⏳ 𝐓𝐢𝐦𝐞 𝐓𝐚𝐤𝐞𝐧  <b>          : {}</b>\n🆙 𝐁𝐨𝐭 𝐔𝐩𝐭𝐢𝐦𝐞" \
@@ -63,7 +63,7 @@ My repo can be see (⦿‿⦿) <a href='https://github.com/m4mallu/clonebot'>�
     COPYING_MESSAGES = "<b>Copying Medias...</b>"
     IN_CORRECT_PERMISSIONS_MESSAGE = "A̶c̶c̶e̶s̶s̶ ̶D̶e̶n̶i̶e̶d̶\n\n𝙎𝙩𝙧𝙞𝙣𝙜 𝙨𝙚𝙨𝙨𝙞𝙤𝙣 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙣𝙤𝙩 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙤𝙛 𝙩𝙝𝙚 𝙨𝙤𝙪𝙧𝙘𝙚 𝙘𝙝𝙖𝙩 𝙜𝙞𝙫𝙚𝙣. " \
                                      "𝙅𝙤𝙞𝙣 𝙩𝙝𝙚 𝙨𝙤𝙪𝙧𝙘𝙚 𝙘𝙝𝙖𝙩 𝙖𝙣𝙙 𝙩𝙧𝙮 𝙖𝙜𝙖𝙞𝙣 𝙡𝙖𝙩𝙚𝙧"
-    COPIED_MESSAGES = "<b><a href='https://github.com/m4mallu/clonebot'>Medias Copied</a></b>"
+    COPIED_MESSAGES = "<b><a href='https://t.me/KOT_LINKS_TEAM'>Medias Copied</a></b>"
     FILE_TYPES = ["document", "video", "audio"]
     COPY_ERROR_TEXT = "A̶c̶c̶e̶s̶s̶ ̶D̶e̶n̶i̶e̶d̶\n\n𝙎𝙩𝙧𝙞𝙣𝙜 𝙨𝙚𝙨𝙨𝙞𝙤𝙣 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙣𝙤𝙩 𝙖𝙣 𝙖𝙙𝙢𝙞𝙣 𝙤𝙛 𝙩𝙝𝙚 𝙙𝙚𝙨𝙩𝙞𝙣𝙖𝙩𝙞𝙤𝙣 𝙘𝙝𝙖𝙩 𝙜𝙞𝙫𝙚𝙣."
     CANCEL_CLONE = "𝙎𝙩𝙤𝙥𝙥𝙞𝙣𝙜 𝙩𝙝𝙚 𝙥𝙧𝙤𝙘𝙚𝙨𝙨... 𝙋𝙡𝙯 𝙬𝙖𝙞𝙩 🕚"
